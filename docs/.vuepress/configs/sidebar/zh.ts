@@ -12,7 +12,7 @@ export const sidebarZh: SidebarConfig = {
       ],
     },
   ],
-  "/notes/fan/": [
+  "/notes/wu/": [
     {
       text: "吴小宝",
       children: [
@@ -22,6 +22,8 @@ export const sidebarZh: SidebarConfig = {
         "/notes/wu/clean-architecture.md",
       ],
     },
+  ],
+  "/notes/fan/": [
     {
       text: "范轶洁",
       children: [
