@@ -14,6 +14,15 @@ export const sidebarZh: SidebarConfig = {
   ],
   "/notes/fan/": [
     {
+      text: "吴小宝",
+      children: [
+        "/notes/wu/README.md",
+        "/notes/wu/ddd.md",
+        "/notes/wu/uml.md",
+        "/notes/wu/clean-architecture.md",
+      ],
+    },
+    {
       text: "范轶洁",
       children: [
         "/notes/fan/README.md",
