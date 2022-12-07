@@ -1,0 +1,11 @@
+{
+  "name": "architecture-study-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
