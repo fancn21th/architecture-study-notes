@@ -29,3 +29,5 @@
 ## 参考语法
 
 - [Markdown](https://v2.vuepress.vuejs.org/zh/guide/markdown.html)
+
+- [Markdown It](https://github.com/markdown-it/markdown-it)

@@ -1,3 +1,3 @@
-# Hello 架友!
+# 欢迎
 
 <img src="/images/weaver-bird.jpg"/>
