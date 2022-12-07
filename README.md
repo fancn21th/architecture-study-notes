@@ -25,3 +25,7 @@
 - 打开本地开发服务器
 
   [http://localhost:8080](http://localhost:8080)
+
+## 参考语法
+
+- [Markdown](https://v2.vuepress.vuejs.org/zh/guide/markdown.html)
