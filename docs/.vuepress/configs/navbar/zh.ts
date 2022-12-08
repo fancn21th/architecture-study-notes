@@ -24,6 +24,38 @@ export const navbarZh: NavbarConfig = [
           "/notes/fan/clean-architecture.md",
         ],
       },
+      {
+        text: "刘新",
+        children: [
+          "/notes/liu/ddd.md",
+          "/notes/liu/uml.md",
+          "/notes/liu/clean-architecture.md",
+        ],
+      },
+      {
+        text: "石熠",
+        children: [
+          "/notes/shi/ddd.md",
+          "/notes/shi/uml.md",
+          "/notes/shi/clean-architecture.md",
+        ],
+      },
+      {
+        text: "王增辉",
+        children: [
+          "/notes/wang/ddd.md",
+          "/notes/wang/uml.md",
+          "/notes/wang/clean-architecture.md",
+        ],
+      },
+      {
+        text: "赵园旭",
+        children: [
+          "/notes/zhao/ddd.md",
+          "/notes/zhao/uml.md",
+          "/notes/zhao/clean-architecture.md",
+        ],
+      },
     ],
   },
 ];

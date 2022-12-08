@@ -34,4 +34,48 @@ export const sidebarZh: SidebarConfig = {
       ],
     },
   ],
+  "/notes/liu/": [
+    {
+      text: "刘新",
+      children: [
+        "/notes/liu/README.md",
+        "/notes/liu/ddd.md",
+        "/notes/liu/uml.md",
+        "/notes/liu/clean-architecture.md",
+      ],
+    },
+  ],
+  "/notes/shi/": [
+    {
+      text: "石熠",
+      children: [
+        "/notes/shi/README.md",
+        "/notes/shi/ddd.md",
+        "/notes/shi/uml.md",
+        "/notes/shi/clean-architecture.md",
+      ],
+    },
+  ],
+  "/notes/wang/": [
+    {
+      text: "王增辉",
+      children: [
+        "/notes/wang/README.md",
+        "/notes/wang/ddd.md",
+        "/notes/wang/uml.md",
+        "/notes/wang/clean-architecture.md",
+      ],
+    },
+  ],
+  "/notes/zhao/": [
+    {
+      text: "赵园旭",
+      children: [
+        "/notes/zhao/README.md",
+        "/notes/zhao/ddd.md",
+        "/notes/zhao/uml.md",
+        "/notes/zhao/clean-architecture.md",
+      ],
+    },
+  ],
 };
